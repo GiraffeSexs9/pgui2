@@ -2154,10 +2154,10 @@ end
 local bindableFunction= Instance.new("BindableFunction")
 
 game.StarterGui:SetCore("SendNotification", {
-    Title = "Pickle Assist";
+    Title = "Pickle AssistV3";
     Text = "Welcome";
     Icon = "RBXID OR BLANK";
-    Duration = "DURATION IN SECONDS";
+    Duration = "10";
     callbakc = bindableFunction;
     Button1 = "Okay";
 })
