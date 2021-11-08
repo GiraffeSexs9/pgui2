@@ -2281,7 +2281,7 @@ CreditTAB:AddButton("Owner Flood", function(bool)
     })
 end)
 
-CreditTAB:AddButton("Flood Made Your Dad", function(bool)
+CreditTAB:AddButton("ffloodgates#7777", function(bool)
     setclipboard("Pickle Assist")
     wait(1)
     local function callback(text)
